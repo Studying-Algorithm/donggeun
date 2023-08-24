@@ -1,0 +1,7 @@
+node_modules
+**/*.js
+src/data
+src/solution.ts
+src/solution.spec.ts
+src/stdin
+.DS_Store

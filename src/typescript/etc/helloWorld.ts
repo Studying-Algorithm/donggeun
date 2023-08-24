@@ -1,3 +1,0 @@
-(() => {
-    console.info("Hello! Typescript 🚀");
-})();
